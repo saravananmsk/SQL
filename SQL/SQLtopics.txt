@@ -1,0 +1,36 @@
+select 
+distinct
+columns aliasname
+count(*), average(),max(), to_char, to_date hints ,case ,decode ,seqence,trim, replace,coalesce function
+from tablename aliasname where tablename in or and between not is null = != exists not exists regex_like
+eqijoin
+
+eqijoin
+left outerjoin
+right outerjoin
+full join
+group by
+having clause
+order by
+
+subqueries
+corelated subqueries
+
+union
+union all
+minus
+intersect
+limit
+top
+
+Analatical functions
+Rollup ,cube,Rank,median
+
+
+table, index, alter, modify, constraint, views, synonyms, sequence, dba views, tablespace, primary key and Foreign key,truncate,datatypes
+insert, delete, update
+commit rollback
+Roles and Privileges and users
+Explain plan
+stats gather,autotrace
+
